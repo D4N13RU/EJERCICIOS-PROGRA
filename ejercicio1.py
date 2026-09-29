@@ -10,3 +10,4 @@ while nota2 < 1.0 or nota2 > 7.0:
 
 promedio = (nota1 + nota2) / 2
 print(f"El promedio es: {promedio}")
+awdawdawd
