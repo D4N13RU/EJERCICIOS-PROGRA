@@ -11,7 +11,7 @@ print(f"Piezas rechazadas: {pieza_salidas}")
 print(f"Porcentaje de piezas salidas: {Porcentaje}%")
 
 #Consumo
-consumo = [120.6, 150.0, 180.4, 160.5, 167.7, 144.9,67676767676767676767676767676767676767676767676767676767676767676767676767676767676766767676767676767676767]
+consumo = [120.6, 150.0, 180.4, 160.5, 167.7, 144.9]
 con_max = 0
 pos_max = 0
 
